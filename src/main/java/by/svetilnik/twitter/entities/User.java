@@ -17,7 +17,6 @@ public class User implements UserDetails {
     private Long id;
 
     @NotNull
-
     private String username;
 
     @NotNull
